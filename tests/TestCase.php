@@ -2,9 +2,9 @@
 
 namespace Ashok\Authorize\Tests;
 
+use Ashok\Authorize\AuthorizeServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Ashok\Authorize\AuthorizeServiceProvider;
 
 class TestCase extends Orchestra
 {

@@ -2,9 +2,9 @@
 
 namespace Ashok\Authorize;
 
+use Ashok\Authorize\Commands\AuthorizeCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Ashok\Authorize\Commands\AuthorizeCommand;
 
 class AuthorizeServiceProvider extends PackageServiceProvider
 {
