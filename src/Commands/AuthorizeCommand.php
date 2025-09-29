@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Ashok\Authorize\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class AuthorizeCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-authorize-attribute';
 
     public $description = 'My command';
 
