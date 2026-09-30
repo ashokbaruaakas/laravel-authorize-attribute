@@ -1,3 +1,5 @@
+Built as a learning exercise before Laravel shipped equivalent attribute-based authorization natively. Kept for reference — not maintained or published."
+
 # A simple Laravel package for authorizing controller methods using PHP 8 attributes like #[Authorize(Model::class)].
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/ashokbaruaakas/laravel-authorize-attribute.svg?style=flat-square)](https://packagist.org/packages/ashokbaruaakas/laravel-authorize-attribute)
